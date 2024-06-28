@@ -35,3 +35,4 @@ Dataset: https://www.kaggle.com/datasets/gti-upm/leapgestrecog
 - Get the summary
 - Get Model loss chart and model accuracy chart for every epochs
 - Show the confusion matrix
+- Prediction
